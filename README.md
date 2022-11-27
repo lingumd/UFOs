@@ -3,6 +3,7 @@
 ## Overview
 Create a webpage and dynamic table that provides an in-depth analysis of UFO sightings by allowing the users to filter for multiple criteria at the same time.
 
+![](./static/images/Snapshot.png)
 
 ## Results
 Users of this webpage can now filter the results by Date, City, Country, State, and Shape. 
